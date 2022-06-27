@@ -1,8 +1,6 @@
 <h1 align="center">Hi? I'm Alan Nato</h1>
 <h3 align="center">I am a passionate user experience designer and game developer.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamnotnato" alt="iamnotnato" /></a> </p>
-
 <h4 align="center">🔭 I’m currently working on a sequel to my game.</h4>
 <h4 align="center">👯 I’m looking to collaborate on Game Design.</h4>
 <h4 align="center">📫 How to reach me theworldin8dits@gmail.com</h4>

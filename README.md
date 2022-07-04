@@ -1,4 +1,4 @@
-<h1 align="center">Hi? I'm Alan Nato</h1>
+<h1 align="left">Hi? I'm Alan Nato</h1>
 <h3 align="center">I am a passionate user experience designer and game dev.</h3>
 
 <h4 align="center">🔭 I’m currently working on a sequel to my game.</h4>

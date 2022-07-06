@@ -1,4 +1,4 @@
-<h1 align="left">Hi? I'm Alan Nato</h1>
+<h1 align="center">Hi? I'm Alan Nato</h1>
 <h3 align="center">I've always been interested in tech.
 
 I remember tearing apart devices, naming them, and trying to see how they worked when I was really young.

@@ -1,10 +1,14 @@
 <h1 align="left">Hi? I'm Alan Nato</h1>
-<h3 align="center">I am a passionate user experience designer and game dev.</h3>
+<h3 align="center">I've always been interested in tech.
 
-<h4 align="center">🔭 I’m currently working on a sequel to my game.</h4>
-<h4 align="center">👯 I’m looking to collaborate on Game Design.</h4>
-<h4 align="center">📫 How to reach me theworldin8dits@gmail.com</h4>
-<h4 align="center">⚡ Fun fact I love games.</h4>
+I remember tearing apart devices, naming them, and trying to see how they worked when I was really young.
+
+It's been a long journey of finding myself by trying to learn all I could and trying out a lot of technologies.  
+
+I'm building the first AAA game in Africa.
+
+It will be available on current-gen consoles and, hopefully, will be Africa's first next-gen game.</h3>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

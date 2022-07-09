@@ -5,10 +5,7 @@ I remember tearing apart devices, naming them, and trying to see how they worked
 
 It's been a long journey of finding myself by trying to learn all I could and trying out a lot of technologies.  
 
-I'm building the first AAA game in Africa.
-
-It will be available on current-gen consoles and, hopefully, will be Africa's first next-gen game.</p>
-
+I'm building the first current-gen and next-gen games in Africa.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

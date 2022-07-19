@@ -18,14 +18,12 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&show_icons=true&locale=en&layout=compact" alt="iamnotnato" /></p>
 <p> Note: The "Top languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </p>
-
 ![](https://komarev.com/ghpvc/?username=iamnotnato&style=flat-square)
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true&locale=en" alt="iamnotnato" /></p>
 
-<div>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnotnato&" alt="iamnotnato" /></p>
- <div> 
+
 
 <div>
     <a href="#"><img alt="Alan Nato's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamnotnato&custom_title=Alan%20Nato's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>

@@ -27,3 +27,8 @@ I'm building the first current-gen and next-gen games in Africa.
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true&locale=en" alt="iamnotnato" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnotnato&" alt="iamnotnato" /></p>
+
+
+<div>
+    <a href="#"><img alt="Alan Nato's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamnotnato-1nC0re&custom_title=Alan%Nato's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 

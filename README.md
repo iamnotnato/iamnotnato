@@ -25,5 +25,5 @@
 
 ![](https://komarev.com/ghpvc/?username=iamnotnato&style=flat-square)
 <div>
-    <a href="#"><img alt="Alan Nato's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamnotnato&custom_title=Alan%20Nato's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-  <div> 
+    <!-- <a href="#"><img alt="Alan Nato's Activity Graph" src="/graph?username=iamnotnato&custom_title=Alan%20Nato's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> -->

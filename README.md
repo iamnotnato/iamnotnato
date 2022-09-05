@@ -1,12 +1,7 @@
 <h1 align="center">Hi? I'm Alan Nato</h1>
 
-<p align="center">I've always been interested in tech. </p>
-
-<p align="center">I remember tearing apart devices, naming them, and trying to see how they worked when I was really young.</p>
-
-<p align="center">It's been a long journey of finding myself by trying to learn all I could and trying out a lot of technologies.  </p>
-
 <p align="center">I'm building the first current-gen and next-gen games in Africa.</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

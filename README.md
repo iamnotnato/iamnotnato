@@ -1,5 +1,4 @@
 <h1 align="center">Hi? I'm Alan Nato</h1>
-![Viewers](https://gpvc.arturio.dev/iamnotnato)
 <p align="center">I'm building the first current-gen and next-gen games in Africa.</p>
 
 
@@ -8,3 +7,4 @@
 <a href="https://twitter.com/alan_nato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alan_nato" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alan-nato/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan nato" height="30" width="40" /></a>
 
+![Profile views](https://gpvc.arturio.dev/[iamnotnato])

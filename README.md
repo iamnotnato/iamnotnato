@@ -1,5 +1,5 @@
 <h1 align="center">Hi? I'm Alan Nato</h1>
-![Viewers](https://gpvc.arturio.dev/AlanNato)
+![Viewers](https://gpvc.arturio.dev/iamnotnato)
 <p align="center">I'm building the first current-gen and next-gen games in Africa.</p>
 
 

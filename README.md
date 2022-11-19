@@ -11,11 +11,11 @@
   
 ## My Github stats
 
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true&theme=merko)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true&theme=synthwave)
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

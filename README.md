@@ -21,4 +21,4 @@
 
 ## Github Contribution Graph
 
-[![Alan's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamnotnato&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alan's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamnotnato&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

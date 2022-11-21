@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://twitter.com/alan_nato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alan_nato" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alan-nato/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan nato" height="30" width="40" /></a>
-<center>
+
 ## Most Used Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,4 +14,4 @@
 ## My Github stats
 
 ![Alan Nato's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true)
-  </center>
+

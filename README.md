@@ -11,6 +11,9 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
+> **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  
 ## My Github stats
 
 ![Alan Nato's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true)

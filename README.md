@@ -11,7 +11,8 @@
 ## My Github stats
 
 ![Alan Nato's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true)
-  
+  ![Alan Nato's GitHub stats](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg)
+  ![Alan Nato's GitHub stats](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg)
 
 <img src="https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 <img src="https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-dark-mode-only">

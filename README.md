@@ -12,7 +12,7 @@
 
 ![Alan Nato's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true)
   
-  <td><img src="https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-dark-mode-only"  width="500px"/></td>
-  <td><img src="https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-dark-mode-only"  width="500px"/></td>
+   <td><img src="https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-dark-mode-only"  width="500px"/></td>
+    <td><img src="https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="500px"/></td>
 
 

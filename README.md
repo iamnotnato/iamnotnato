@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/alan-nato/" target="blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="alan nato"/></a>
  
  <br>
+ <br>
 
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css,javascript&layout=compact)](https://github.com/iamnotnato/github-readme-stats)
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

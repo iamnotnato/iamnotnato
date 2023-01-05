@@ -10,9 +10,9 @@
  
  <br>
  <br>
-<h3 align="left">Top Languages:</h3>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css,scss,javascript&layout=compact)](https://github.com/iamnotnato/github-readme-stats)
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,scss,%2B%2B,Ren'Py" height="198px"/>
+ 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
  

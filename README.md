@@ -11,14 +11,9 @@
  <br>
  <br>
 
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide=css,javascript&border_color=1F222E"/>
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide=css,javascript,scss&border_color=1F222E"/>
  
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
- 
-<details>
-   <summary> Graph </summary>
-   <br/>
-   <img alt="" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</details>
+
 

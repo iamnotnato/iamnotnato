@@ -16,5 +16,9 @@
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
  
-
+<details>
+   <summary> Graph </summary>
+   <br/>
+   <img alt="" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</details>
 

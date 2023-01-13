@@ -1,7 +1,6 @@
 <h1 align="left">Hi? I'm Alan Nato</h1>
 <p align="left">I'm building the first current-gen and next-gen games in Africa.</p>
 
-<img src="https://komarev.com/ghpvc/?username=iamnotnato&label=Profile%20views&color=0e75b6&style=plastic" alt="" height=25px, width=150px/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +10,7 @@
  <br>
  <br>
 
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&hide=css,javascript,scss&border_color=1F222E"/>
+<img src="https://komarev.com/ghpvc/?username=iamnotnato&label=Profile%20views&color=0e75b6&style=plastic" alt="" height=25px, width=150px/> 
  
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

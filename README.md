@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=iamnotnato&label=Profile%20views&color=0e75b6&style=plastic" alt="" height=25px, width=150px/> 
 
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&hide=css,javascript)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato)
  
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

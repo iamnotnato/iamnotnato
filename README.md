@@ -12,8 +12,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=iamnotnato&label=Profile%20views&color=0e75b6&style=plastic" alt="" height=25px, width=150px/> 
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&show_icons=true&locale=en&layout=compact&hide=css,javascript,scss" alt="iamnotnato" /></p>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&show_icons=true&locale=en&layout=compact&hide=css,javascript,scss" alt="iamnotnato" />
+</p>
 
+<br>
 <br>
 
 > **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

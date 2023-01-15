@@ -14,12 +14,15 @@
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&show_icons=true&locale=en&layout=compact&hide=css,javascript,scss" alt="iamnotnato" />
+
+<br>
+ 
+> **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<br>
-<br>
 
-> **Note** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
 
 
 

@@ -10,10 +10,8 @@
  <br>
  <br>
 
-<img src="https://komarev.com/ghpvc/?username=iamnotnato&label=Profile%20views&color=0e75b6&style=plastic" alt="" height=25px, width=150px/> 
 
-<p align="left">
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css&layout=compact"/></td>      
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css&layout=compact"/>
 
 <br>
 

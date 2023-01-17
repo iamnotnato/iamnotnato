@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/alan-nato/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="alan nato"/></a>
 
 <br>
+<br>
  
 <a href="https://github.com/iamnotnato" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css,javascript,scss&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  

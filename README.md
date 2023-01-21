@@ -11,6 +11,6 @@
   
 <br>
 
-> Contribution Graph : 
+> GitHub Contribution Calendar : 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

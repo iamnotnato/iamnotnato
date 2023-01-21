@@ -11,9 +11,12 @@
 
 <br>
 
+> Profile Views
 ![](https://visitor-badge.laobi.icu/badge?page_id=iamnotnato.iamnotnato)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
       
 > GitHub Contribution Calendar : 
   

@@ -11,6 +11,10 @@
   
 <br>
 
+> <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true"/>
+> 
+> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css,javascript,scss&layout=compact"/>  
+      
 > GitHub Contribution Calendar : 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

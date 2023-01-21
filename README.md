@@ -17,7 +17,10 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&hide=css,javascript,css.,css)](https://github.com/anuraghazra/github-readme-stats)
+> **Note**
+> Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&hide=css,javascript,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 

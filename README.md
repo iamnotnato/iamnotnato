@@ -13,4 +13,4 @@
 
 > Contribution Graph : 
   
-![](./profile-3d-contrib/profile-night-reinbow-version.svg)
+![](./profile-3d-contrib/profile-night-reinbow.svg)

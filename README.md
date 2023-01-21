@@ -10,6 +10,8 @@
 > <a href="https://www.linkedin.com/in/alan-nato/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="alan nato"/></a>
   
 <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato)](https://github.com/anuraghazra/github-readme-stats)
       
 > GitHub Contribution Calendar : 
   

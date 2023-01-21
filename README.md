@@ -10,10 +10,6 @@
 > <a href="https://www.linkedin.com/in/alan-nato/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="alan nato"/></a>
   
 <br>
-
-> <img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=iamnotnato&show_icons=true"/>
-> 
-> <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css,javascript,scss&layout=compact"/>  
       
 > GitHub Contribution Calendar : 
   

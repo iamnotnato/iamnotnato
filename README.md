@@ -12,12 +12,15 @@
 <br>
 
 > Profile Views
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=iamnotnato.iamnotnato)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&hide=css,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
-      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&hide=css,javascript,css.,css)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 > GitHub Contribution Calendar : 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

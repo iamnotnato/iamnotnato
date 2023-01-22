@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&hide=css,javascript,css,scss)
 
 > **Note**
-> Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. 
+> Top Languages does not accurately represent my level of proficiency. It's a GitHub metric that shows which languages have the most code in my public GitHub repositories. 
 
 <br>
 

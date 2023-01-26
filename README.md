@@ -11,7 +11,7 @@
 
 <br>
 
-> Profile Views
+> Stargazers
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=iamnotnato.iamnotnato)
 

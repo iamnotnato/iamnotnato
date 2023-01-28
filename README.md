@@ -17,16 +17,21 @@
 
 <br>
 
+<div align=center>
+  <hr width="90%"/>
+</div>
+<div align=center>
 
 ![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 ![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-> Top Languages
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&hide=css,javascript,css,scss)
+<div align=center>
+  <hr width="90%"/>
+</div>
 
 > **Note**
 > Top Languages does not accurately represent my level of proficiency. It's a GitHub metric that shows which languages have the most code in my public GitHub repositories. 

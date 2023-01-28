@@ -17,8 +17,7 @@
 
 <br>
 
-<div align=center>
-  <hr width="90%"/>
+
 </div>
 <div align=center>
 
@@ -29,9 +28,6 @@
 
 </div>
 
-<div align=center>
-  <hr width="90%"/>
-</div>
 
 > **Note**
 > Top Languages does not accurately represent my level of proficiency. It's a GitHub metric that shows which languages have the most code in my public GitHub repositories. 

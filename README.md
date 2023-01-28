@@ -17,6 +17,13 @@
 
 <br>
 
+
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 > Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotnato&layout=compact&hide=css,javascript,css,scss)

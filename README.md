@@ -26,6 +26,16 @@
 
 <br>
 
+<div align=center>
+
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-light-mode-only)
+ 
+</div>
+
+
 > GitHub Contribution Calendar : 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

@@ -26,12 +26,6 @@
 
 <br>
 
-
-<div align=center>
-  <hr width="90%"/>
-</div>
-
-
 > GitHub Contribution Calendar : 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

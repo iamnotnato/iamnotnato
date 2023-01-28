@@ -17,9 +17,10 @@
 
 <br>
 
+> Stats
 
 </div>
-<div align=center>
+<div align=left>
 
 ![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/overview.svg#gh-light-mode-only)
@@ -27,10 +28,7 @@
 ![](https://raw.githubusercontent.com/iamnotnato/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 </div>
-
-
-> **Note**
-> Top Languages does not accurately represent my level of proficiency. It's a GitHub metric that shows which languages have the most code in my public GitHub repositories. 
+ 
 
 <br>
 

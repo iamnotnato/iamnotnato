@@ -32,6 +32,8 @@
 
 <br>
 
+<p align="left"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotnato&show_icons=true&locale=en&layout=compact" alt="iamnotnato" /></p>
+
 > GitHub Contribution Calendar : 
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

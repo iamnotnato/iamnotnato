@@ -39,11 +39,9 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: user
-          
+                  
           plugin_projects: yes
-          
-          plugin_stargazers: yes        
-          
+                    
           plugin_contributors: yes
           plugin_contributors_sections: categories
           plugin_contributors_categories: |

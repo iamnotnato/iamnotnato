@@ -1,3 +1,3 @@
 <picture>
-  <img src="![](./metrics.svg)">
+  <img src="./metrics.svg)">
   </picture>

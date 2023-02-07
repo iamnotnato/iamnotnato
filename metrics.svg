@@ -1219,14 +1219,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 368kb of code in 350 edited files across 561 commits over last 10 days</small>
+                <small>estimation from 371kb of code in 362 edited files across 564 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.60035555555555" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.60035555555555" y="0" width="4.399644444444444" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.0344827586207" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.0344827586207" y="0" width="3.9655172413793105" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1238,7 +1238,7 @@
                                 C
                             </div>
                             <small>
-                                <div>99.04%</div>
+                                <div>99.14%</div>
                             </small>
                         </div>
                     </section>
@@ -1251,7 +1251,7 @@
                                 Assembly
                             </div>
                             <small>
-                                <div>0.96%</div>
+                                <div>0.86%</div>
                             </small>
                         </div>
                     </section>

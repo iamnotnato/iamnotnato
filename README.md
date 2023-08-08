@@ -1,1 +1,1 @@
-
+![](./metrics.svg)
